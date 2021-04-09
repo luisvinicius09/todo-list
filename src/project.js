@@ -58,13 +58,6 @@ const projectCreation = () => {
   });
 }
 
-const projectTags = document.querySelector('p')
-
-for(let pTags in projectTags) {
-  const delBtn = docum
-}
-
-
 module.exports = {
   displayProjects,
   projectCreation,
